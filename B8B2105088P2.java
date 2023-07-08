@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package b8b.pkg2105088.p2;
+package  assignment2_cpcs204;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,14 +10,12 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
-Name : Alanoud Owaed Almutairi
-* ID : 2105088
-* Email :AHEMIJANALMUTAIRI@stu.kau.edu.sa
-* Section :B8B
+Name : Alanoud
+
 * course : CPCS-204
 * date :27 - Oct - 2022
  */
-public class B8B2105088P2 {
+public class  assignment2_cpcs204 {
 
     /**
      * @param args the command line arguments
